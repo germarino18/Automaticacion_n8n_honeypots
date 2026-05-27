@@ -1,23 +1,5 @@
 # Plataforma de Visualización y Gestión para Honeypots Orquestados con n8n
 
-## 1. Evaluación de Viabilidad del Proyecto
-
-Sí, es completamente posible desarrollar una interfaz web para administrar, monitorear y visualizar los resultados del sistema de honeypots presentado en la investigación.
-
-La documentación técnica y la arquitectura actual proporcionan una base sólida para construir una plataforma frontend/backend moderna orientada a:
-
-* Visualización de eventos de seguridad en tiempo real
-* Monitoreo de ataques y sesiones
-* Consulta histórica de eventos
-* Visualización de métricas MITRE ATT&CK
-* Gestión de indicadores de compromiso (IoCs)
-* Ejecución y monitoreo de playbooks
-* Gestión de alertas
-* Panel SOC académico
-* Testing y simulación de ataques controlados
-
----
-
 # 2. Justificación Técnica
 
 La arquitectura propuesta ya contiene los componentes fundamentales para una interfaz:
@@ -36,7 +18,7 @@ Esto permite desarrollar una interfaz sin necesidad de rediseñar la arquitectur
 
 ---
 
-# 3. Arquitectura Recomendada para la Interfaz
+# 3. Arquitectura para la Interfaz
 
 ## Backend
 
