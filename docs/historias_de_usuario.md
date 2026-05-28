@@ -1,6 +1,6 @@
-5. Historias de Usuario
+# Historias de Usuario
 Epic: Gestión y Monitoreo de Honeypots
-Historia de Usuario 1
+# Historia de Usuario 1
 
 Título: Visualizar ataques en tiempo real
 
@@ -12,7 +12,8 @@ Debe visualizarse IP origen.
 Debe visualizarse timestamp.
 Debe visualizarse honeypot afectado.
 Debe visualizarse severidad.
-Historia de Usuario 2
+
+# Historia de Usuario 2
 
 Título: Consultar técnicas MITRE ATT&CK
 
@@ -23,7 +24,8 @@ Cada evento debe contener técnica ATT&CK.
 Debe existir un panel táctico.
 Debe poder filtrarse por táctica.
 Debe poder exportarse la información.
-Historia de Usuario 3
+
+# Historia de Usuario 3
 
 Título: Filtrar eventos
 
@@ -34,7 +36,8 @@ Deben existir filtros dinámicos.
 La búsqueda debe ser instantánea.
 Debe existir paginación.
 Debe poder ordenarse por fecha.
-Historia de Usuario 4
+
+# Historia de Usuario 4
 
 Título: Visualizar origen geográfico
 
@@ -44,7 +47,8 @@ Criterios de aceptación
 Debe existir mapa interactivo.
 Debe marcar IPs geolocalizadas.
 Debe mostrar cantidad de ataques por país.
-Historia de Usuario 5
+
+# Historia de Usuario 5
 
 Título: Gestionar indicadores de compromiso
 
@@ -55,7 +59,8 @@ Debe almacenarse hash.
 Debe almacenarse IP maliciosa.
 Debe almacenarse URL maliciosa.
 Debe existir búsqueda de IoCs.
-Historia de Usuario 6
+
+# Historia de Usuario 6
 
 Título: Simular ataques controlados
 
@@ -66,7 +71,8 @@ Debe existir módulo de simulación.
 Debe registrarse el ataque generado.
 Debe activarse el playbook correspondiente.
 Debe visualizarse el resultado.
-Historia de Usuario 7
+
+# Historia de Usuario 7
 
 Título: Visualizar métricas operativas
 
@@ -77,7 +83,8 @@ Debe visualizarse MTTD.
 Debe visualizarse MTTR.
 Debe visualizarse cantidad de eventos.
 Deben existir gráficos históricos.
-Historia de Usuario 8
+
+# Historia de Usuario 8
 
 Título: Recibir alertas automáticas
 
@@ -88,7 +95,8 @@ Debe integrarse con Discord.
 Debe integrarse con Telegram.
 Debe integrarse con Email.
 Debe configurarse severidad mínima.
-Historia de Usuario 9
+
+# Historia de Usuario 9
 
 Título: Consultar sesiones de ataque completas
 
@@ -99,7 +107,8 @@ Deben visualizarse comandos ejecutados.
 Deben visualizarse archivos descargados.
 Debe existir timeline.
 Debe visualizarse duración de sesión.
-Historia de Usuario 10
+
+# Historia de Usuario 10
 
 Título: Exportar reportes
 
